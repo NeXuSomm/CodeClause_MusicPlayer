@@ -291,7 +291,7 @@ class Player(ttk.Frame):
             "6. mute button = '\U0001F50A' ",
             "7. unmute symbol = 🔇",
             "8. stop button = ■ ",
-            "\n\n| Made by manucho | Copyright @ 2021 |\n"
+            "\n\n| Made by OMM | Copyright @ 2023|\n"
         ]
         for i in user_manual:
             manual = Label(top, text=i, width=50, height=3,
